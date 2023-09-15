@@ -1,0 +1,4 @@
+this is first version for my learning
+1) learn linux in detail
+2) get a good command on cloud services
+3) mastering the CI/CD pipelines
